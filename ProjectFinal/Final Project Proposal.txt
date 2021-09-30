@@ -1,0 +1,4 @@
+I plan on doing the provided final project. There were a few ideas I thought of, but I was unsure how these projects compared to the 30hr expectation. Some ideas were a simulation of radio wave propogation using advection, a topographic map maker, or a movie of some kind.
+I figured that I might choose the provided project since I had too many ideas, but none of them stood out to me. The thought of working on volume rendering also interested me, which was another push toward the provided project.
+
+- Zach Domke
